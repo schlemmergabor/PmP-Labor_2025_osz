@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L06-OOPalapok", "L06-OOPala
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L07-OOPtulajdonság", "L07-OOPtulajdonság\L07-OOPtulajdonság.csproj", "{F60D245C-D008-4A71-8952-25A3AD18CF38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L08-OOPfeladatmegoldás", "L08-OOPfeladatmegoldás\L08-OOPfeladatmegoldás.csproj", "{8B7E3F06-D0D9-4108-A8B7-E64912301484}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F60D245C-D008-4A71-8952-25A3AD18CF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F60D245C-D008-4A71-8952-25A3AD18CF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F60D245C-D008-4A71-8952-25A3AD18CF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7E3F06-D0D9-4108-A8B7-E64912301484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7E3F06-D0D9-4108-A8B7-E64912301484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7E3F06-D0D9-4108-A8B7-E64912301484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7E3F06-D0D9-4108-A8B7-E64912301484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
